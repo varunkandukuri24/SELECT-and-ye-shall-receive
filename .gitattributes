@@ -23,7 +23,7 @@
 *.pyo    binary
 
 # Jupyter notebook
-*.ipynb  text
+*.ipynb  linguist-language=SQL
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
